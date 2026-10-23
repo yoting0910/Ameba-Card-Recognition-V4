@@ -1,0 +1,31 @@
+{
+  "version": "V4",
+  "model": "card_frame_index_roi_v4_52cards",
+  "firmware_revision": "async_preview_v6_model_v4_52",
+  "output_classes": 52,
+  "dataset_counts": {
+    "train": 934,
+    "val": 619,
+    "test": 608
+  },
+  "held_out_h5_test": {
+    "correct": 586,
+    "total": 608,
+    "accuracy": 0.9638157894736842
+  },
+  "paper_balance_enabled": false,
+  "files": {
+    "RTSPImageClassification.ino": "d639dffbb2d2a615cae2a3ebe42a5b1a1a1791f27fffcf4d54ef3f0467c75b20",
+    "bounded_http.h": "abdaadd04959f67b1f2637907572c9c7f7e86ae96061f56f30db8db4c1a46a61",
+    "bounded_write.h": "4b84f248b0b6fce709f5a31125808adcb3a0da11a49b852eb5d5a9c69d789281",
+    "card_geometry_board.h": "a223541369f5b396fa5ef8802d83345a94b0e3cc32bddb708fbc45772631aef5",
+    "ClassificationClassList.h": "027f5f46d27bb294c10947033467a962d52e4db2bbffa38832d90af3ce10279a",
+    "img_class_cnn.nb": "dc9fb06ba97685aa187f2d7eddb3d2a36824769e116d017f0b9d7c4568c1ebc6",
+    "input_color_policy.h": "5625ab132654039393dba13c46d663c630a07227384a8c631fce1cd93ead660e",
+    "model_diagnostics.h": "7b80f395a244e464c2e6b279d744c2ad14bf66ffac1a049fbb0953ec15652dff",
+    "model_selection.h": "4b6d71b012df8decfacffd2e30511b5be73c0e0389546b8b23e0e64d1dcdb367",
+    "paper_balance.h": "00bd9b7ac47de8ad45aa7495a95b4cc83b6b81c11fbc2c9c7cc5a7ba518de549",
+    "runtime_config.h": "b05caa098f7dc23c6c63ebc4963c07e25fff61a74dd1b89977453160b1971c77",
+    "viewer_page.h": "106bf4914898afc4b0b27cb32bbe4a956a5904c8a2bbee7a36705ddeb2f0f1bb"
+  }
+}
